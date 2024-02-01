@@ -96,6 +96,7 @@
 
 .detailsPostDescriptionParagraphs > p {
   font-size: 0.9vw;
+  line-height: 150%;
 }
 
 @keyframes overlay-ani {

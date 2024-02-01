@@ -22,7 +22,7 @@ const NavBar: React.FC = () => {
     <div className={styles.navBar}>
       <div className={classNames("container", styles.navBarContent)}>
         <a href={Routes.MAIN}>
-          <span>АЛЕКСАНДР ЩЁЛОКОВ</span>
+          <span>Александр Щёлоков</span>
         </a>
         <nav>
           <ul className={styles.navBarLinks}>
