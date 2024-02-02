@@ -1,5 +1,6 @@
 .technologies {
-  background: #191919;
+  background: transparent;
+  height: 11.945vw;
 }
 
 .technologiesWrapper {
@@ -31,8 +32,11 @@
   }
 }
 
-
 @media (orientation: portrait) {
+  .technologies {
+    height: auto;
+  }
+
   .technologiesWrapper img {
     width: 15%;
   }

@@ -1,5 +1,5 @@
 import styles from "./Footer.module.css";
-import qrCode from "../../images/qr-code.png";
+import qrCode from "../../images/qr-code.webp";
 import classNames from "classnames";
 import { useShowConentInView } from "../../hook/showConentInView";
 

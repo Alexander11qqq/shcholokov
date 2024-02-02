@@ -1,15 +1,15 @@
 import React from "react";
 import styles from "./About.module.css";
-import unity3d from "../../images/unity3d.png";
-import coding from "../../images/coding.png";
+import unity3d from "../../images/unity3d.webp";
+import coding from "../../images/coding.webp";
 import { useShowConentInView } from "../../hook/showConentInView";
 
 const About: React.FC = () => {
-  const { showContent, ref, inView } = useShowConentInView();
+  const { showContent, colorBackground, ref, inView } = useShowConentInView();
 
   return (
     <section
-      style={showContent}
+      style={colorBackground("#111111")}
       ref={ref}
       id={"about"}
       className={styles.about}
