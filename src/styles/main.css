@@ -158,6 +158,31 @@ h4 {
   color: #ffffff;
 }
 
+.Arduino_tag {
+  background: #008184;
+  color: #ffffff;
+}
+
+.Ae_tag {
+  background: #391c00;
+  color: #d2a6ff;
+}
+
+.Ps_tag {
+  background: #060b5a;
+  color: #a1d2fd;
+}
+
+.Ai_tag {
+  background: #391c00;
+  color: #ffbd46;
+}
+
+.Web_tag {
+  background: #00729b;
+  color: #ffffff;
+}
+
 
 @media (orientation: portrait) {
   .container {
