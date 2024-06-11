@@ -10,14 +10,13 @@ interface IProps {
   shortDescription: string;
   preview: string;
   tags: string[];
-  alias: string;
 }
 
 export const VideoPostComponent: React.FC<IProps> = (props) => {
-  const { id, title, shortDescription, preview, tags, alias } = props;
+  const { id, title, shortDescription, preview, tags } = props;
 
   return (
-    <Link to={`${Routes.MAIN}details-post/${alias}`}>
+    <Link to={`${Routes.MAIN}details-post/${id}`}>
       <div key={id} className={styles.videoPost}>
         <div className={styles.videoPreview}>
           <img src={preview} alt={"previewPost"} />

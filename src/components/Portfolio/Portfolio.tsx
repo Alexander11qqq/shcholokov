@@ -13,9 +13,13 @@ const Portfolio: React.FC = () => {
       <div className={classNames(styles.portfolio, "container")}>
         <h2>Портфолио</h2>
         <div className={styles.videoPosts}>
-          {posts.videoPosts.map((videoPost) => {
-            return <VideoPostComponent key={videoPost.id} {...videoPost} />;
-          })}
+          {posts.videoPosts
+            .sort((a, b) => b.id - a.id)
+            .map((videoPost) => {
+              return (
+                <VideoPostComponent key={Number(videoPost.id)} {...videoPost} />
+              );
+            })}
         </div>
       </div>
     </section>

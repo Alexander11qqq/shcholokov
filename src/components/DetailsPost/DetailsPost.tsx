@@ -14,7 +14,7 @@ export const DetailsPost: React.FC = () => {
   const defaultDocumentTitle = "Александр Щёлоков";
 
   const post = posts.videoPosts.find(
-    (videoPost) => videoPost.alias === pathname
+    (videoPost) => videoPost.id.toString() === pathname
   );
 
   useEffect(() => {

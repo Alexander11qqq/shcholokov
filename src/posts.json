@@ -19,11 +19,10 @@
       ],
       "shortDescription": "Фиджитал проект по космической тематике",
       "preview": "https://i.ytimg.com/vi/qOSjLp5SgV0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFogWyhlMA8=&rs=AOn4CLCi0nf18uoSYYYB5H9s7a7xF69pAA",
-      "alias": "post1",
       "linkYouTube": "https://www.youtube.com/embed/qOSjLp5SgV0?si=hq3_5x7-wpYFgp0N",
-      "tags": ["Unity3D","Blender", "Ps"]
+      "tags": ["Unity3D", "Blender", "Ps"]
     },
-    
+
     {
       "id": 2,
       "title": "Как крокодил солнце проглотил",
@@ -37,11 +36,10 @@
           "paragraph": "В рамках этого мероприятия мы подготовили интерактив по сказке Корнея Чуковского «Краденое солнце», где участникам необходимо было помочь крокодилу отбелить зубы, узнать о пользе личной гигиены и вернуть солнышки на свои места."
         }
       ],
-      "shortDescription": "Интерактивная стена с применением скрэтч-механики",
+      "shortDescription": "Интерактивная игра с применением скрэтч-механики",
       "preview": "https://i.ytimg.com/vi/L0d7if0r0yA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVShVMA8=&rs=AOn4CLCHcIXEm9EiLjHiVaQV8xmeuvb_ew",
-      "alias": "post2",
       "linkYouTube": "https://www.youtube.com/embed/L0d7if0r0yA?si=IEN6iHwSUlAo8rbl",
-      "tags": ["Unity3D","Blender", "Ps", "Ae"]
+      "tags": ["Unity3D", "Blender", "Ps", "Ae"]
     },
 
     {
@@ -64,7 +62,6 @@
       ],
       "shortDescription": "Цикл интерактивных проектов по вселенной Гарри Поттера",
       "preview": "https://i.ytimg.com/vi/2o-L0KlKEtU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgWig5MA8=&rs=AOn4CLC5win0mCtwudvU-IATaCtHDx3fzw",
-      "alias": "post3",
       "linkYouTube": "https://www.youtube.com/embed/2o-L0KlKEtU?si=KSQwONcLofRC9VGS",
       "tags": ["Unity3D", "Blender", "Arduino", "Ps", "Ae"]
     },
@@ -79,7 +76,6 @@
       ],
       "shortDescription": "Герои любимых книг",
       "preview": "https://i.ytimg.com/vi_webp/WCZ2LWfDLNI/maxresdefault.webp",
-      "alias": "post4",
       "linkYouTube": "https://www.youtube.com/embed/WCZ2LWfDLNI?si=CIgv7yKFh0e01vJh",
       "tags": ["Unity3D", "Blender", "Ps", "Ae"]
     },
@@ -103,9 +99,8 @@
       ],
       "shortDescription": "Полет фантазии в AR",
       "preview": "https://i.ytimg.com/vi/603isW3SW-c/hqdefault.jpg",
-      "alias": "post5",
       "linkYouTube": "https://www.youtube.com/embed/603isW3SW-c?si=e0lKmtWZRhIB4SP3",
-      "tags": ["Unity3D", "Blender","Ps"]
+      "tags": ["Unity3D", "Blender", "Ps"]
     },
 
     {
@@ -127,10 +122,9 @@
       ],
       "shortDescription": "Наука на стыке технологий",
       "preview": "https://i.ytimg.com/vi/dnpf8lekHGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDePcOrH18m6SKJCWBZjUCcxlgeHw",
-      "alias": "post6",
       "linkYouTube": "https://www.youtube.com/embed/dnpf8lekHGQ?si=ETGBDf-Gk9hfglh3",
       "tags": ["Unity3D", "Blender", "Ai", "Ae"]
-    }, 
+    },
 
     {
       "id": 7,
@@ -151,10 +145,9 @@
       ],
       "shortDescription": "Симулятор комбайнера",
       "preview": "https://i.ytimg.com/vi/MUClp7Q92YQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFsoRjAP&rs=AOn4CLAEJkKaOJgxtFdjxG_JwP5qwPEbVg",
-      "alias": "post7",
       "linkYouTube": "https://www.youtube.com/embed/MUClp7Q92YQ?si=ywVCrFJtmTAAdKTG",
       "tags": ["Unity3D", "Blender", "Ps"]
-    }, 
+    },
 
     {
       "id": 8,
@@ -175,10 +168,9 @@
       ],
       "shortDescription": "Погружение в прошлое",
       "preview": "https://i.ytimg.com/vi/qtV5GNcFU10/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEsoSDAP&rs=AOn4CLDcI0hmHolZNoPWkKdRli1sWy6jqw",
-      "alias": "post8",
       "linkYouTube": "https://www.youtube.com/embed/qtV5GNcFU10?si=wQpqwC-A8_6fK9Xp",
       "tags": ["Unity3D", "Blender", "Ps"]
-    }, 
+    },
 
     {
       "id": 9,
@@ -199,38 +191,37 @@
       ],
       "shortDescription": "Книжные истории о самом главном",
       "preview": "https://i.ytimg.com/vi/XLh8QZAUY7s/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDlO2-1Aq2PC9TED6psQQpkD_8yJQ",
-      "alias": "post9",
       "linkYouTube": "https://www.youtube.com/embed/XLh8QZAUY7s?si=s3HWaAGPcj-6rxk5",
       "tags": ["Unity3D", "Blender", "Ps"]
-    }, 
+    },
 
     {
       "id": 10,
-      "title": "Штрих-код игры",
+      "title": "Прототип #1",
       "description": [
         {
           "id": 1,
-          "paragraph": "Приложение с технологией дополненной реальности, разработанное ко Дню матери. Проект представляет собой куб, на гранях которого представлены интерактивные сюжеты из книг. Одной из главных задач была 3D-визуализация героев из предложенных произведений, тематикой которых была любовь мамы к детям."
+          "paragraph": "Тематическая игра в стиле поиска предметов, где используется сканер штрих-кодов. Задача пользователя — найти предметы, просканировав их штрих-коды за отведённое время."
         },
         {
           "id": 2,
-          "paragraph": "В качестве задания детям и их мамам будет предложено нажать на понравившегося героя книги, после чего появится подсказка, где эту книгу можно отыскать на месте (подсказки локальные и легкозаменяемые, здесь лишь только один из примеров). После успешного поиска одного произведения, нужно отправиться за следующим. Как только соберутся все сюжеты, ребят и их мам будут ждали небольшие презенты в честь праздника."
+          "paragraph": ""
         },
         {
           "id": 3,
           "paragraph": ""
         }
       ],
-      "shortDescription": "Книжные истории о самом главном",
-      "preview": "https://i.ytimg.com/vi/603isW3SW-c/hqdefault.jpg",
-      "alias": "post10",
-      "linkYouTube": "https://www.youtube.com/embed/603isW3SW-c?si=e0lKmtWZRhIB4SP3",
-      "tags": ["Unity3D", "Ps", "Ae"]
-    }, 
+      "shortDescription": "Штрих-код квиз",
+      "preview": "https://i.ytimg.com/vi/brwdd5M8R8I/maxresdefault.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/brwdd5M8R8I?si=FssoY072zl-iVi4Q",
+      "tags": ["Unity3D", "Ps"]
+    },
 
     {
       "id": 11,
-      "title": "Викторина на магнитах",
+      "title": "Прототип #2",
       "description": [
         {
           "id": 1,
@@ -245,60 +236,60 @@
           "paragraph": ""
         }
       ],
-      "shortDescription": "Книжные истории о самом главном",
-      "preview": "https://i.ytimg.com/vi/603isW3SW-c/hqdefault.jpg",
-      "alias": "post11",
-      "linkYouTube": "https://www.youtube.com/embed/603isW3SW-c?si=e0lKmtWZRhIB4SP3",
-      "tags": ["Unity3D", "Ps", "Ae"]
-    }, 
+      "shortDescription": "Викторина на магнитах",
+      "preview": "https://i.ytimg.com/vi/Ie7zS15htG0/hqdefault.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/Ie7zS15htG0?si=RnUYaClKQOGl82vz",
+      "tags": ["Unity3D", "Arduino", "Ps", "Ae"]
+    },
 
     {
       "id": 12,
-      "title": "Круговая викторина",
+      "title": "Игра света",
       "description": [
         {
           "id": 1,
-          "paragraph": "Приложение с технологией дополненной реальности, разработанное ко Дню матери. Проект представляет собой куб, на гранях которого представлены интерактивные сюжеты из книг. Одной из главных задач была 3D-визуализация героев из предложенных произведений, тематикой которых была любовь мамы к детям."
+          "paragraph": "Старинное здание на берегу Оки на Стрелке было построено в 1896 году по инициативе нижегородского купца и основателя пивоваренной династии Ф. Ермолаева сначала как трактир, который позднее переоборудовали в гостиницу, оснащенную по последнему слову техники!"
         },
         {
           "id": 2,
-          "paragraph": "В качестве задания детям и их мамам будет предложено нажать на понравившегося героя книги, после чего появится подсказка, где эту книгу можно отыскать на месте (подсказки локальные и легкозаменяемые, здесь лишь только один из примеров). После успешного поиска одного произведения, нужно отправиться за следующим. Как только соберутся все сюжеты, ребят и их мам будут ждали небольшие презенты в честь праздника."
+          "paragraph": "Интерактив «Игра света» простой и увлекательный: используя тач-панель можно будет ознакомиться с историей и будущим здания. А главное — повлиять на облик здания здесь и сейчас, управляя подсветкой окон!"
         },
         {
           "id": 3,
           "paragraph": ""
         }
       ],
-      "shortDescription": "Книжные истории о самом главном",
-      "preview": "https://i.ytimg.com/vi/603isW3SW-c/hqdefault.jpg",
-      "alias": "post12",
-      "linkYouTube": "https://www.youtube.com/embed/603isW3SW-c?si=e0lKmtWZRhIB4SP3",
-      "tags": ["Unity3D", "Ps", "Ae"]
-    }, 
+      "shortDescription": "Презентация гостиницы Ермолаевых",
+      "preview": "https://i.ytimg.com/vi/otY73RJ4Q7o/hqdefault.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/otY73RJ4Q7o?si=Lid9aeTpb0Es2Ib4",
+      "tags": ["Unity3D", "Ps"]
+    },
 
     {
       "id": 13,
-      "title": "AR-фотобудка",
+      "title": "Книга заклинаний",
       "description": [
         {
           "id": 1,
-          "paragraph": "Приложение с технологией дополненной реальности, разработанное ко Дню матери. Проект представляет собой куб, на гранях которого представлены интерактивные сюжеты из книг. Одной из главных задач была 3D-визуализация героев из предложенных произведений, тематикой которых была любовь мамы к детям."
+          "paragraph": "Проект реализован в рамках Всемирного дня Гарри Поттера. Данная технология представляет собой возможность управления игрой с помощью голосовых команд. Тематикой события был волшебный мир Гарри Поттера, поэтому задумка данной инсталляции идеально подошла к концепции самого мероприятия."
         },
         {
           "id": 2,
-          "paragraph": "В качестве задания детям и их мамам будет предложено нажать на понравившегося героя книги, после чего появится подсказка, где эту книгу можно отыскать на месте (подсказки локальные и легкозаменяемые, здесь лишь только один из примеров). После успешного поиска одного произведения, нужно отправиться за следующим. Как только соберутся все сюжеты, ребят и их мам будут ждали небольшие презенты в честь праздника."
+          "paragraph": ""
         },
         {
           "id": 3,
           "paragraph": ""
         }
       ],
-      "shortDescription": "Книжные истории о самом главном",
-      "preview": "https://i.ytimg.com/vi/603isW3SW-c/hqdefault.jpg",
-      "alias": "post13",
-      "linkYouTube": "https://www.youtube.com/embed/603isW3SW-c?si=e0lKmtWZRhIB4SP3",
-      "tags": ["Unity3D", "Ps", "Ae", "Web"]
-    }, 
+      "shortDescription": "Голосовая инсталляция для произношения заклинаний",
+      "preview": "https://i.ytimg.com/vi/kmPFuhbTaJQ/hqdefault.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/kmPFuhbTaJQ?si=3Iiz1U-donTh6B-K",
+      "tags": ["Unity3D", "Blender", "Ps"]
+    },
 
     {
       "id": 14,
@@ -306,23 +297,23 @@
       "description": [
         {
           "id": 1,
-          "paragraph": "Приложение с технологией дополненной реальности, разработанное ко Дню матери. Проект представляет собой куб, на гранях которого представлены интерактивные сюжеты из книг. Одной из главных задач была 3D-визуализация героев из предложенных произведений, тематикой которых была любовь мамы к детям."
+          "paragraph": "Интерактивная инсталляция с локальным мультиплеером, которая позволит пользователям погрузиться в тематику мероприятий. В данном ролике присутствуют отрывки с квеста по кибербезопасности, со дня Экологии и Дня Музыки, где участникам необходимо было записать свой хит."
         },
         {
           "id": 2,
-          "paragraph": "В качестве задания детям и их мамам будет предложено нажать на понравившегося героя книги, после чего появится подсказка, где эту книгу можно отыскать на месте (подсказки локальные и легкозаменяемые, здесь лишь только один из примеров). После успешного поиска одного произведения, нужно отправиться за следующим. Как только соберутся все сюжеты, ребят и их мам будут ждали небольшие презенты в честь праздника."
+          "paragraph": ""
         },
         {
           "id": 3,
           "paragraph": ""
         }
       ],
-      "shortDescription": "Книжные истории о самом главном",
-      "preview": "https://i.ytimg.com/vi/603isW3SW-c/hqdefault.jpg",
-      "alias": "post14",
-      "linkYouTube": "https://www.youtube.com/embed/603isW3SW-c?si=e0lKmtWZRhIB4SP3",
-      "tags": ["Unity3D", "Ps", "Ae"]
-    }, 
+      "shortDescription": "Кооперативные игры для мероприятий",
+      "preview": "https://i.ytimg.com/vi/PDBDha9VuDI/hqdefault.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/PDBDha9VuDI?si=sF56t6rmsEXlWrry",
+      "tags": ["Unity3D", "Ps", "Ae", "Web"]
+    },
 
     {
       "id": 15,
@@ -330,23 +321,214 @@
       "description": [
         {
           "id": 1,
-          "paragraph": "Приложение с технологией дополненной реальности, разработанное ко Дню матери. Проект представляет собой куб, на гранях которого представлены интерактивные сюжеты из книг. Одной из главных задач была 3D-визуализация героев из предложенных произведений, тематикой которых была любовь мамы к детям."
+          "paragraph": "Суть работы заключается в следующем: мы набираем любой четырёхзначный код (который мы сами можем установить на самом телефоне) и воспроизводится соответствующая аудиозапись, которая хранится на флешке внутри телефона. Поднеся трубку ближе, пользователь может услышать из динамика то, что вы для него подготовили."
         },
         {
           "id": 2,
-          "paragraph": "В качестве задания детям и их мамам будет предложено нажать на понравившегося героя книги, после чего появится подсказка, где эту книгу можно отыскать на месте (подсказки локальные и легкозаменяемые, здесь лишь только один из примеров). После успешного поиска одного произведения, нужно отправиться за следующим. Как только соберутся все сюжеты, ребят и их мам будут ждали небольшие презенты в честь праздника."
+          "paragraph": "Применений очень много. Приведу пример одного из концептов: сказочных героев очень и очень много, а цитат, которые по сей день вдохновляют читателей на разные вещи - еще больше. Так почему бы не набрать на диске телефона номер героя из сказки и услышать доброе напутствие!?"
         },
         {
           "id": 3,
           "paragraph": ""
         }
       ],
-      "shortDescription": "Книжные истории о самом главном",
-      "preview": "https://i.ytimg.com/vi/603isW3SW-c/hqdefault.jpg",
-      "alias": "post15",
-      "linkYouTube": "https://www.youtube.com/embed/603isW3SW-c?si=e0lKmtWZRhIB4SP3",
+      "shortDescription": "Звонок в сказку",
+      "preview": "https://i.ytimg.com/vi/skeVfQEhqJQ/hqdefault.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/skeVfQEhqJQ?si=OLktn1-ClvUmcYSW",
       "tags": ["Arduino", "Ai"]
+    },
+
+    {
+      "id": 16,
+      "title": "Прототип #3",
+      "description": [
+        {
+          "id": 1,
+          "paragraph": "Python. OpenCV"
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        }
+      ],
+      "shortDescription": "Трекинг лазерной указки",
+      "preview": "https://i.ytimg.com/vi/xTm-xcJJ6H0/hqdefault.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/xTm-xcJJ6H0?si=P3H-t_ZVso-FeJeb",
+      "tags": ["Python"]
+    },
+
+    {
+      "id": 17,
+      "title": "Прототип #4",
+      "description": [
+        {
+          "id": 1,
+          "paragraph": "Связь по протоколу UDP между Python и Unity3D"
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        }
+      ],
+      "shortDescription": "Трекинг объекта и отправка данных в Unity3D",
+      "preview": "https://i.ytimg.com/vi/RtuV2cFFpDk/hqdefault.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/RtuV2cFFpDk?si=g547tWkHO04EZjVB",
+      "tags": ["Unity3D", "Python"]
+    },
+
+    {
+      "id": 18,
+      "title": "Прототип #5",
+      "description": [
+        {
+          "id": 1,
+          "paragraph": ""
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        }
+      ],
+      "shortDescription": "Считывание прыжков и приседаний с помощью Kinect",
+      "preview": "https://i.ytimg.com/vi/RcbDsAeBQLw/hqdefault.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/RcbDsAeBQLw?si=Biw6_17jbL6nppsw",
+      "tags": ["Unity3D"]
+    },
+
+    {
+      "id": 19,
+      "title": "Прототип #6",
+      "description": [
+        {
+          "id": 1,
+          "paragraph": "Данный прототип был использован на одном из мероприятий в качестве демонстации механики работы с микрофоном. Персонаж бежал по планете и в определенный момент зрительный зал должен был синхронно хлопнуть в ладоши. Отладили уровень шума перед началом демонстации и все прошло ништяк!"
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        }
+      ],
+      "shortDescription": "Управляем персонажем с помощью микрофона",
+      "preview": "https://i.ytimg.com/vi/4oOjLexRoVE/hqdefault.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/RcbDsAeBQLw?si=Biw6_17jbL6nppsw",
+      "tags": ["Unity3D"]
+    },
+
+    {
+      "id": 20,
+      "title": "Прототип #7",
+      "description": [
+        {
+          "id": 1,
+          "paragraph": ""
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        }
+      ],
+      "shortDescription": "Управляем контентом с Leap Motion",
+      "preview": "https://i.ytimg.com/vi/Llp2ppFBwiE/hq2.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/Llp2ppFBwiE",
+      "tags": ["Unity3D"]
+    },
+
+    {
+      "id": 21,
+      "title": "Прототип #8",
+      "description": [
+        {
+          "id": 1,
+          "paragraph": ""
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        }
+      ],
+      "shortDescription": "Плащ-невидимка и волшебная палочка",
+      "preview": "https://i.ytimg.com/vi/-LyjT-KALOQ/oar2.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/-LyjT-KALOQ",
+      "tags": ["Unity3D", "Python"]
+    },
+
+    {
+      "id": 22,
+      "title": "По следам Гарри Поттера",
+      "description": [
+        {
+          "id": 1,
+          "paragraph": "Приложение дополненной реальности отправляет пользователей во Вселенную Гарри Поттера, где они будут помогать главным героям выбраться из сложных ситуаций."
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        }
+      ],
+      "shortDescription": "AR-приключение",
+      "preview": "https://i.ytimg.com/vi/RzW0gbl-aJw/hq720_2.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/RzW0gbl-aJw",
+      "tags": ["Unity3D", "Ps"]
+    },
+
+    {
+      "id": 23,
+      "title": "Прототип #9",
+      "description": [
+        {
+          "id": 1,
+          "paragraph": "Приложение дополненной реальности отправляет пользователей во Вселенную Гарри Поттера, где они будут помогать главным героям выбраться из сложных ситуаций."
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        }
+      ],
+      "shortDescription": "AR-приключение",
+      "preview": "https://i.ytimg.com/vi/RzW0gbl-aJw/hq720_2.jpg",
+
+      "linkYouTube": "https://www.youtube.com/embed/RzW0gbl-aJw",
+      "tags": ["Unity3D", "Ps"]
     }
-  
   ]
 }
