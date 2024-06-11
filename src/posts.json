@@ -514,6 +514,30 @@
       "alias": "post22",
       "linkYouTube": "https://www.youtube.com/embed/RzW0gbl-aJw",
       "tags": ["Unity3D", "Ps"]
+    }, 
+
+    {
+      "id": 23,
+      "title": "Прототип #9",
+      "description": [
+        {
+          "id": 1,
+          "paragraph": "Приложение дополненной реальности отправляет пользователей во Вселенную Гарри Поттера, где они будут помогать главным героям выбраться из сложных ситуаций."
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        }
+      ],
+      "shortDescription": "AR-приключение",
+      "preview": "https://i.ytimg.com/vi/RzW0gbl-aJw/hq720_2.jpg",
+      "alias": "post23",
+      "linkYouTube": "https://www.youtube.com/embed/RzW0gbl-aJw",
+      "tags": ["Unity3D", "Ps"]
     }
   
   ]
