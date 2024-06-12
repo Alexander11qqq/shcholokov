@@ -3,6 +3,7 @@ import styles from "./VideoPostComponent.module.css";
 import classNames from "classnames";
 import { Link } from "react-router-dom";
 import { Routes } from "../../../router/router";
+import { useShowConentInView } from "../../../hook/showConentInView";
 
 interface IProps {
   id: number;
@@ -13,10 +14,11 @@ interface IProps {
 }
 
 export const VideoPostComponent: React.FC<IProps> = (props) => {
+  const { showContent, ref } = useShowConentInView();
   const { id, title, shortDescription, preview, tags } = props;
 
   return (
-    <Link to={`${Routes.MAIN}details-post/${id}`}>
+    <Link style={showContent} ref={ref} to={`${Routes.MAIN}details-post/${id}`}>
       <div key={id} className={styles.videoPost}>
         <div className={styles.videoPreview}>
           <img src={preview} alt={"previewPost"} />

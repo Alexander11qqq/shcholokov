@@ -1,7 +1,7 @@
 import { useLocation, useNavigate } from "react-router-dom";
 import styles from "./DetailsPost.module.css";
 import { useEffect, useRef } from "react";
-import posts from "../../posts.json";
+import videoPosts from "../../posts.ts";
 import { Routes } from "../../router/router";
 import classNames from "classnames";
 
@@ -13,7 +13,7 @@ export const DetailsPost: React.FC = () => {
 
   const defaultDocumentTitle = "Александр Щёлоков";
 
-  const post = posts.videoPosts.find(
+  const post = videoPosts.find(
     (videoPost) => videoPost.id.toString() === pathname
   );
 

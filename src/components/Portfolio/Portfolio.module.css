@@ -6,8 +6,8 @@
 .videoPosts {
   padding-top: 3vw;
   display: grid;
-  grid-template-columns: 2fr 1fr 2fr;
-  grid-gap: 3vw;
+  grid-template-columns: 26.5vw 26.5vw 26vw;
+  grid-gap: 2vw;
 }
 
 @media (orientation: portrait) {
