@@ -183,6 +183,11 @@ h4 {
   color: #ffffff;
 }
 
+.Python_tag {
+  background: #77009b;
+  color: #ffffff;
+}
+
 
 @media (orientation: portrait) {
   .container {
