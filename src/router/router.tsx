@@ -4,7 +4,7 @@ import { Outlet, createBrowserRouter } from "react-router-dom";
 import { ErrorPage } from "../components/ErrorPage/ErrorPage";
 
 export enum Routes {
-  MAIN = "/shcholokov/",
+  MAIN = "/",
   DETAILS_POST = "details-post/:id",
 }
 
@@ -29,5 +29,5 @@ export const router = createBrowserRouter([
     ],
   },
 ], 
-{basename: '/'}
+{basename: "/shcholokov"}
 );
