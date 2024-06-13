@@ -11,6 +11,7 @@ export enum Routes {
 export const router = createBrowserRouter([
   {
     path: Routes.MAIN,
+    
     element: (
       <>
         <App />
@@ -27,4 +28,4 @@ export const router = createBrowserRouter([
       },
     ],
   },
-]);
+], {basename: Routes.MAIN});
