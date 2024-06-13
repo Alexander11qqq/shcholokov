@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { HashLink } from "react-router-hash-link";
 import styles from "./NavBar.module.css";
 import classNames from "classnames";
-import { Routes } from "../../router/router";
 
 const NavBar: React.FC = () => {
   const [isOpenBurger, setOpenBurger] = useState<boolean>(false);
@@ -21,7 +20,7 @@ const NavBar: React.FC = () => {
   return (
     <div className={styles.navBar}>
       <div className={classNames("container", styles.navBarContent)}>
-        <a href={Routes.MAIN}>
+        <a href={'/shcholokov'}>
           <span>Александр Щёлоков</span>
         </a>
         <nav>
