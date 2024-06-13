@@ -254,7 +254,7 @@ const videoPosts = [
           "AR-приложение «Герои любимых книг» по мотивам литературных произведений. Викторина в дополненной реальности, где магическим образом читатели перевоплощаются в героев произведений. Задача: угадать каким персонажем ты являешься!",
       },
     ],
-    shortDescription: "Герои любимых книг",
+    shortDescription: "AR-маски",
     preview: "https://i.ytimg.com/vi_webp/WCZ2LWfDLNI/maxresdefault.webp",
     linkYouTube:
       "https://www.youtube.com/embed/WCZ2LWfDLNI?si=CIgv7yKFh0e01vJh",
