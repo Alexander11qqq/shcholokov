@@ -19,13 +19,19 @@ export const DetailsPost: React.FC = () => {
 
   useEffect(() => {
     document.title = post?.title || defaultDocumentTitle;
-    document.body.style.overflow = "hidden";
   }, [post?.title]);
+
+  useEffect(() => {
+    if(overlayRef.current) {
+      document.body.style.overflow = "hidden";
+    }
+  }, [overlayRef])
 
   const onClickOverlay = (e: React.MouseEvent<HTMLDivElement, MouseEvent>) => {
     if (e.target === overlayRef.current) {
       navigate(Routes.MAIN);
       document.title = defaultDocumentTitle;
+      document.body.style.overflow = "unset";
     }
   };
 
