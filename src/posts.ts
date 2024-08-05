@@ -10,8 +10,8 @@ const videoPosts = [
       },
     ],
     shortDescription: "Экскурсия по технопарку в дополненной реальности",
-    preview: "https://i.ytimg.com/vi/-DpsYBTMZk8/hq2.jpg",
-    linkYouTube: "https://www.youtube.com/embed/-DpsYBTMZk8",
+    preview: "https://i.vimeocdn.com/video/1911103918-38cdc8aecd23ed0ed41a9548a914050d809afb0ab73d1cd4fd249b5fd1287ad6-d_295x166?r=pad",
+    linkYouTube: "https://player.vimeo.com/video/995055331",
     tags: ["Unity3D", "Blender"],
   },
   {
@@ -36,9 +36,9 @@ const videoPosts = [
     ],
     shortDescription: "Наука на стыке технологий",
     preview:
-      "https://i.ytimg.com/vi/dnpf8lekHGQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDePcOrH18m6SKJCWBZjUCcxlgeHw",
+      "https://i.vimeocdn.com/video/1911081632-da28a83953a86caa45badc9312ec02b8d01b85070fe3a314e6c1ca30b23390ca-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/dnpf8lekHGQ?si=ETGBDf-Gk9hfglh3",
+      "https://player.vimeo.com/video/995034321",
     tags: ["Unity3D", "Blender", "Ai", "Ae"],
   },
   {
@@ -52,9 +52,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Голосовая инсталляция для произношения заклинаний",
-    preview: "https://i.ytimg.com/vi/kmPFuhbTaJQ/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911100585-e03d4a8e2e358a17a8ae5acf557daa328618c705c827b2e4c960b236eb74cc6c-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/kmPFuhbTaJQ?si=3Iiz1U-donTh6B-K",
+      "https://player.vimeo.com/video/995052239",
     tags: ["Unity3D", "Blender", "Ps"],
   },
   {
@@ -69,9 +69,9 @@ const videoPosts = [
     ],
     shortDescription: "Симулятор комбайнера",
     preview:
-      "https://i.ytimg.com/vi/MUClp7Q92YQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFsoRjAP&rs=AOn4CLAEJkKaOJgxtFdjxG_JwP5qwPEbVg",
+      "https://i.vimeocdn.com/video/1911081151-9ca0365cb6b41cae0f3c7541f6e71f0a988c67d51205012c683224fcc4ff452f-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/MUClp7Q92YQ?si=ywVCrFJtmTAAdKTG",
+      "https://player.vimeo.com/video/995033513",
     tags: ["Unity3D", "Blender", "Ps"],
   },
   {
@@ -86,9 +86,9 @@ const videoPosts = [
     ],
     shortDescription: "Погружение в прошлое",
     preview:
-      "https://i.ytimg.com/vi/qtV5GNcFU10/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEsoSDAP&rs=AOn4CLDcI0hmHolZNoPWkKdRli1sWy6jqw",
+      "https://i.vimeocdn.com/video/1911081368-f5684a32855e54841e8baad1bc1975083a140ae3e0eaf6ec5077cb5839c6a4be-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/qtV5GNcFU10?si=wQpqwC-A8_6fK9Xp",
+      "https://player.vimeo.com/video/995034097",
     tags: ["Unity3D", "Blender", "Ps"],
   },
   {
@@ -107,9 +107,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Сочетание книги и технологий",
-    preview: "https://i.ytimg.com/vi/WhvDAge9Ejw/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911081435-0cf8ad3812ee8aa93752961e88fe4c34c22a7ce16dd18e34cd598c36090abe49-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/WhvDAge9Ejw?si=Bo7kPWLTqpIHHfRf",
+      "https://player.vimeo.com/video/995034245",
     tags: ["Unity3D", "Ps", "Ae"],
   },
   {
@@ -123,9 +123,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Сделай фото на память",
-    preview: "https://i.ytimg.com/vi/SUtYzW8pt-A/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911081621-f47476e13f1e0a527b82e1209aa18c2f1cacfa9d6ba2eb9a1cd3fec620d65455-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/SUtYzW8pt-A?si=HMys9pdgK1AIjM6k",
+      "https://player.vimeo.com/video/995034467",
     tags: ["Unity3D", "Ps", "Web"],
   },
   {
@@ -139,9 +139,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Звонок в сказку",
-    preview: "https://i.ytimg.com/vi/skeVfQEhqJQ/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911081738-411082a8a125f9d2ecd8aae56b13bbccef0909f80dc87ff2a3575b1810a2594f-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/skeVfQEhqJQ?si=OLktn1-ClvUmcYSW",
+      "https://player.vimeo.com/video/995034615",
     tags: ["Arduino", "Ai"],
   },
   {
@@ -155,9 +155,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Кооперативные игры для мероприятий",
-    preview: "https://i.ytimg.com/vi/PDBDha9VuDI/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911081817-19b45e01de8019adc26d43ee2cd3286df0c4e4fd3d622e91857a02daca876883-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/PDBDha9VuDI?si=sF56t6rmsEXlWrry",
+      "https://player.vimeo.com/video/995034653",
     tags: ["Unity3D", "Ps", "Ae", "Web"],
   },
   {
@@ -171,9 +171,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Полет фантазии в AR",
-    preview: "https://i.ytimg.com/vi/603isW3SW-c/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911081709-8d891789aeda0c8947b3f7b45ae20e9ef21478b08c45171614d1cfade24b3081-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/603isW3SW-c?si=e0lKmtWZRhIB4SP3",
+      "https://player.vimeo.com/video/995034493",
     tags: ["Unity3D", "Blender", "Ps"],
   },
   {
@@ -193,9 +193,9 @@ const videoPosts = [
     ],
     shortDescription: "Книжные истории о самом главном",
     preview:
-      "https://i.ytimg.com/vi/XLh8QZAUY7s/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDlO2-1Aq2PC9TED6psQQpkD_8yJQ",
+      "https://i.vimeocdn.com/video/1911081984-8d8a587225b6c3f1e6b60adac9f73bee53d17a7f665cbf2311cae9bd50f22272-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/XLh8QZAUY7s?si=s3HWaAGPcj-6rxk5",
+      "https://player.vimeo.com/video/995034829",
     tags: ["Unity3D", "Blender", "Ps"],
   },
   {
@@ -209,8 +209,8 @@ const videoPosts = [
       },
     ],
     shortDescription: "AR-приключение",
-    preview: "https://i.ytimg.com/vi/RzW0gbl-aJw/hq720_2.jpg",
-    linkYouTube: "https://www.youtube.com/embed/RzW0gbl-aJw",
+    preview: "https://i.vimeocdn.com/video/1911081850-335d0911c9509fb78552a4a5efc5bd9e47a29792b364c47bb097d8aba1f7fcf4-d_295x166?r=pad",
+    linkYouTube: "https://player.vimeo.com/video/995034738",
     tags: ["Unity3D", "Blender", "Ps"],
   },
   {
@@ -230,8 +230,8 @@ const videoPosts = [
       },
     ],
     shortDescription: "Голосовая инсталляция",
-    preview: "https://i.ytimg.com/vi/Uh7hvlwq2Ok/hq720_2.jpg",
-    linkYouTube: "https://www.youtube.com/embed/Uh7hvlwq2Ok",
+    preview: "https://i.vimeocdn.com/video/1911081907-cfc4acfb35c690a826fbe9362982727b740580e0d7cedd6fba303603dd332454-d_295x166?r=pad",
+    linkYouTube: "https://player.vimeo.com/video/995034780",
     tags: ["Unity3D", "Ps"],
   },
   {
@@ -245,9 +245,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Знакомство с историей с помощью дополненной реальности",
-    preview: "https://i.ytimg.com/vi/KFOA8bTaLZs/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911092943-617d4c1a90d3f8c76627846cd6c622484042bfbae291f6424dafbd4bfc98133c-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/KFOA8bTaLZs?si=eHmVruHgz7KgOfPW",
+      "https://player.vimeo.com/video/995045373",
     tags: ["Unity3D", "Ps"],
   },
   {
@@ -261,9 +261,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Таймер до определенного события",
-    preview: "https://i.ytimg.com/vi/G6pwnUBpmfs/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911082008-059af0dda6ccc92db65372141f0d6741c5f1a655bd7879a9946ac1efcd5704a7-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/G6pwnUBpmfs?si=mrMoyVVY0a4i4HnJ",
+      "https://player.vimeo.com/video/995034933",
     tags: ["Unity3D"]
   },
 
@@ -284,9 +284,9 @@ const videoPosts = [
         },
     ],
     shortDescription: "Проект для МТС",
-    preview: "https://i.ytimg.com/vi/_hG8zw_29iE/oar2.jpg",
+    preview: "https://i.vimeocdn.com/video/1911082046-800549098228044a97fb73f7ce0e910556e2d5e30f57bde5edaba43d36e05132-d_295x166?r=pad",
     linkYouTube:
-      "https://youtube.com/embed/_hG8zw_29iE?si=LR9oEkNBh3mnImFM",
+      "https://player.vimeo.com/video/995034968",
     tags: ["Unity3D", "Ps"]
   },
 
@@ -301,9 +301,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "AR-маски",
-    preview: "https://i.ytimg.com/vi_webp/WCZ2LWfDLNI/maxresdefault.webp",
+    preview: "https://i.vimeocdn.com/video/1911082105-af95570c99d607b8ccfa4a6c9ef2671b782b35e74c5ea36d92ea300a22c3201f-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/WCZ2LWfDLNI?si=CIgv7yKFh0e01vJh",
+      "https://player.vimeo.com/video/995035013",
     tags: ["Unity3D", "Blender", "Ps", "Ae"],
   },
   {
@@ -323,9 +323,9 @@ const videoPosts = [
     ],
     shortDescription: "Интерактивная игра с применением скрэтч-механики",
     preview:
-      "https://i.ytimg.com/vi/L0d7if0r0yA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVShVMA8=&rs=AOn4CLCHcIXEm9EiLjHiVaQV8xmeuvb_ew",
+      "https://i.vimeocdn.com/video/1911082145-532b580834b658f4a35d2624941011f039de7b0415f6ec89c35d90c69ff51c48-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/L0d7if0r0yA?si=IEN6iHwSUlAo8rbl",
+      "https://player.vimeo.com/video/995035056",
     tags: ["Unity3D", "Blender", "Ps", "Ae"],
   },
   {
@@ -345,9 +345,9 @@ const videoPosts = [
     ],
     shortDescription: "Фиджитал проект по космической тематике",
     preview:
-      "https://i.ytimg.com/vi/qOSjLp5SgV0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFogWyhlMA8=&rs=AOn4CLCi0nf18uoSYYYB5H9s7a7xF69pAA",
+      "https://i.vimeocdn.com/video/1911082278-4742a471449480c04b099c8ec1434c03d9fee679aaf5e8013736887f2e568317-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/qOSjLp5SgV0?si=hq3_5x7-wpYFgp0N",
+      "https://player.vimeo.com/video/995035199",
     tags: ["Unity3D", "Blender", "Ps"],
   },
   {
@@ -372,9 +372,9 @@ const videoPosts = [
     ],
     shortDescription: "Цикл интерактивных проектов по вселенной Гарри Поттера",
     preview:
-      "https://i.ytimg.com/vi/2o-L0KlKEtU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgWig5MA8=&rs=AOn4CLC5win0mCtwudvU-IATaCtHDx3fzw",
+      "https://i.vimeocdn.com/video/1911082507-d55f5e96efcf2d49885b0cc0c9d20157a0df3d17acaa938b6309a4f760113951-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/2o-L0KlKEtU?si=KSQwONcLofRC9VGS",
+      "https://player.vimeo.com/video/995035250",
     tags: ["Unity3D", "Blender", "Arduino", "Ps", "Ae"],
   },
   {
@@ -388,9 +388,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Интерактивный мэппинг с историей Нижегородского кремля",
-    preview: "https://i.ytimg.com/vi/uVHppzYHHSE/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911082508-b673246476644b5fe5fd0214168ef19722e429a667b62c08c26fac874beebbad-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/uVHppzYHHSE?si=c1x6SgRQS1PSc5eZ",
+      "https://player.vimeo.com/video/995035417",
     tags: ["Unity3D"],
   },
   {
@@ -409,9 +409,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Презентация гостиницы Ермолаевых в рамках фестиваля INTERVALS 2024",
-    preview: "https://i.ytimg.com/vi/otY73RJ4Q7o/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911082242-d71a705ebcabe63d3969ef9201a17687fb0258eac8ee3c50d81f675af0ec074d-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/otY73RJ4Q7o?si=Lid9aeTpb0Es2Ib4",
+      "https://player.vimeo.com/video/995035124",
     tags: ["Unity3D", "Ps"],
   },
   {
@@ -425,9 +425,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Штрих-код квиз",
-    preview: "https://i.ytimg.com/vi/brwdd5M8R8I/maxresdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911081131-940ea3888c55aa9ecc73555a00e880b530f031d25bed2bb31e8e7093ea761f9f-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/brwdd5M8R8I?si=FssoY072zl-iVi4Q",
+      "https://player.vimeo.com/video/995033939",
     tags: ["Unity3D", "Ps"],
   },
   {
@@ -441,9 +441,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Викторина на магнитах",
-    preview: "https://i.ytimg.com/vi/Ie7zS15htG0/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911080566-660d04314bf68221d7a90f14f071a194e4c8564211a023c15d0c54da79cfdd98-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/Ie7zS15htG0?si=RnUYaClKQOGl82vz",
+      "https://player.vimeo.com/video/995033398",
     tags: ["Unity3D", "Arduino", "Ps", "Ae"],
   },
   {
@@ -457,9 +457,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Трекинг лазерной указки",
-    preview: "https://i.ytimg.com/vi/xTm-xcJJ6H0/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911080574-b5ded6bf07f7a4eb9ae816bf5ff6efa7bab15763807892f7dd40acf4473c91f5-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/xTm-xcJJ6H0?si=P3H-t_ZVso-FeJeb",
+      "https://player.vimeo.com/video/995033431",
     tags: ["Python"],
   },
   {
@@ -472,9 +472,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Трекинг объекта и отправка данных в Unity3D",
-    preview: "https://i.ytimg.com/vi/RtuV2cFFpDk/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911080505-ddab843bb05dec34ec7b21feb46c66293117dc82dd3745705746917297de76ae-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/RtuV2cFFpDk?si=g547tWkHO04EZjVB",
+      "https://player.vimeo.com/video/995033380",
     tags: ["Unity3D", "Python"],
   },
   {
@@ -487,9 +487,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Считывание прыжков и приседаний с помощью Kinect",
-    preview: "https://i.ytimg.com/vi/RcbDsAeBQLw/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911080503-6c5edb370f776bbcd7aea6d70c9c74fc0a8073a49655604d4755fcf2312327b4-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/RcbDsAeBQLw?si=Biw6_17jbL6nppsw",
+      "https://player.vimeo.com/video/995033367",
     tags: ["Unity3D"],
   },
   {
@@ -503,9 +503,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Управляем персонажем с помощью микрофона",
-    preview: "https://i.ytimg.com/vi/4oOjLexRoVE/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911107062-febd5d96de0d845af84d866d173a6705048c6a24fdf9e172b484b2d60fdf71fd-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/4oOjLexRoVE?si=bJ_Q6sQW_X-kDd4j",
+      "https://player.vimeo.com/video/995058295",
     tags: ["Unity3D"],
   },
   {
@@ -518,8 +518,8 @@ const videoPosts = [
       },
     ],
     shortDescription: "Управляем контентом с Leap Motion",
-    preview: "https://i.ytimg.com/vi/Llp2ppFBwiE/hq2.jpg",
-    linkYouTube: "https://www.youtube.com/embed/Llp2ppFBwiE",
+    preview: "https://i.vimeocdn.com/video/1911080474-fb771accf7204d0c8c436ddf4f28058f5312abed7b50de46eed79bd46ab94c6e-d_295x166?r=pad",
+    linkYouTube: "https://player.vimeo.com/video/995033341",
     tags: ["Unity3D"],
   },
   {
@@ -533,8 +533,8 @@ const videoPosts = [
       },
     ],
     shortDescription: "Плащ-невидимка и волшебная палочка",
-    preview: "https://i.ytimg.com/vi/-LyjT-KALOQ/oar2.jpg",
-    linkYouTube: "https://www.youtube.com/embed/-LyjT-KALOQ",
+    preview: "https://i.vimeocdn.com/video/1911080441-ed43c411a60fa691391b29a30327d1e8bc66020da3c2508940793814beb448ff-d_295x166?r=pad",
+    linkYouTube: "https://player.vimeo.com/video/995033278",
     tags: ["Unity3D", "Python"],
   },
   {
@@ -548,8 +548,8 @@ const videoPosts = [
       },
     ],
     shortDescription: "Интерактивные фонари",
-    preview: "https://i.ytimg.com/vi/ZPMd8iLF7RE/hq720_2.jpg",
-    linkYouTube: "https://www.youtube.com/embed/ZPMd8iLF7RE",
+    preview: "https://i.vimeocdn.com/video/1911080395-7154b4cf0ec2bc0b6e502ee9de48005583bd44c275bff8991509486cbb971dc4-d_295x166?r=pad",
+    linkYouTube: "https://player.vimeo.com/video/995033256",
     tags: ["Unity3D", "Ps"],
   },
   {
@@ -563,8 +563,8 @@ const videoPosts = [
       },
     ],
     shortDescription: "Механика для квеста",
-    preview: "https://i.ytimg.com/vi/gpPahlCqwAE/hq720_2.jpg",
-    linkYouTube: "https://www.youtube.com/embed/gpPahlCqwAE",
+    preview: "https://i.vimeocdn.com/video/1911080392-42f07c2e28bb5db89c4d0b0fa2bf434d48b0b6f4eb8231075bfc96e6349238ab-d_295x166?r=pad",
+    linkYouTube: "https://player.vimeo.com/video/995033236",
     tags: ["Unity3D", "Blender", "Ps"],
   },
   {
@@ -578,8 +578,8 @@ const videoPosts = [
       },
     ],
     shortDescription: "Дополнение к настольной игре",
-    preview: "https://i.ytimg.com/vi/I4VfSg-3D-E/hq2.jpg",
-    linkYouTube: "https://www.youtube.com/embed/I4VfSg-3D-E",
+    preview: "https://i.vimeocdn.com/video/1911112252-ca5e230b63b1f4b504aaf47293288e724e8e2f3ef2697edd9191a03f34f65c20-d_295x166?r=pad",
+    linkYouTube: "https://player.vimeo.com/video/995063191",
     tags: ["Unity3D", "Ps"],
   },
   {
@@ -592,9 +592,9 @@ const videoPosts = [
       },
     ],
     shortDescription: "Ожившие рисунки",
-    preview: "https://i.ytimg.com/vi/1mbK1kYWSLU/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911080605-c3a9f565f6c27ac109ad94a47d0713b3cda7b0c8b6d094668ad38b1c8a128b22-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/1mbK1kYWSLU?si=hJsJGWw_O_BKXXUW",
+      "https://player.vimeo.com/video/995033459",
     tags: ["Unity3D", "Blender", "Ai"],
   },
   {
@@ -607,11 +607,11 @@ const videoPosts = [
       },
     ],
     shortDescription: "RFID и NFC-метки",
-    preview: "https://i.ytimg.com/vi/OvJAqfAXOw4/hqdefault.jpg",
+    preview: "https://i.vimeocdn.com/video/1911080635-08953372f1896ab753a7ad9b42dc35efa24f900c15ea33bd8250516b7ecc0132-d_295x166?r=pad",
     linkYouTube:
-      "https://www.youtube.com/embed/OvJAqfAXOw4?si=HcVqiqND8i1S_clE",
+      "https://player.vimeo.com/video/995033477",
     tags: ["Unity3D", "Arduino", "Ae"],
-  },
+  }, 
 ];
 
 export default videoPosts;
