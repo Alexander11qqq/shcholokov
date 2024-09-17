@@ -184,7 +184,17 @@ h4 {
 }
 
 .Python_tag {
-  background: #77009b;
+  background: #1c009b;
+  color: #ffffff;
+}
+
+.TouchDesigner_tag {
+  background: #47574f;
+  color: #ffffff;
+}
+
+.Figma_tag {
+  background: #70157c;
   color: #ffffff;
 }
 

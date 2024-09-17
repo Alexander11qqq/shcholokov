@@ -391,7 +391,7 @@ const videoPosts = [
     preview: "https://i.vimeocdn.com/video/1911082508-b673246476644b5fe5fd0214168ef19722e429a667b62c08c26fac874beebbad-d_295x166?r=pad",
     linkYouTube:
       "https://player.vimeo.com/video/995035417",
-    tags: ["Unity3D"],
+    tags: ["Unity3D", "Figma"],
   },
   {
     id: 30,
@@ -412,11 +412,109 @@ const videoPosts = [
     preview: "https://i.vimeocdn.com/video/1911082242-d71a705ebcabe63d3969ef9201a17687fb0258eac8ee3c50d81f675af0ec074d-d_295x166?r=pad",
     linkYouTube:
       "https://player.vimeo.com/video/995035124",
-    tags: ["Unity3D", "Ps"],
+    tags: ["Unity3D", "Figma"],
+  }, 
+  /// ПРОТОТИПЫ ///
+  {
+    id: -6,
+    title: "Прототип #18",
+    description: [
+      {
+        id: 1,
+        paragraph:
+          "Объединяем TouchDesigner с датчиками.",
+      },
+    ],
+    shortDescription: "TouchDesigner + Arduino",
+    preview: "https://i.vimeocdn.com/video/1927449014-156216c8732ffcf336117a30324a88f3bec678e690ade270c84732ab0de6b606-d?mw=1000&mh=566&q=70",
+    linkYouTube:
+      "https://player.vimeo.com/video/1010140600",
+    tags: ["TouchDesigner", "Arduino"],
   },
   {
-    id: -1,
-    title: "Прототип #1",
+    id: -6,
+    title: "Прототип #17",
+    description: [
+      {
+        id: 1,
+        paragraph:
+          "Промышленный контроллер для управления контентом/игрой/лебедками - всем.",
+      },
+    ],
+    shortDescription: "Контроллер для управления игрой",
+    preview: "https://i.vimeocdn.com/video/1927444396-054fc450f197137e3129b9bb80f3d95ed67cfe55535bb8f1dc5aa60c49948e4f-d?mw=1000&mh=566&q=70",
+    linkYouTube:
+      "https://player.vimeo.com/video/1010136680",
+    tags: ["Unity3D", "Arduino", "Figma"],
+  },
+  {
+    id: -7,
+    title: "Прототип #16",
+    description: [
+      {
+        id: 1,
+        paragraph:
+          "Сеанс нейросетевой магии.",
+      },
+
+      {
+        id: 2,
+        paragraph:
+          "Для этого при помощи тачскрин экрана необходимо выбрать интересующий шаблон для генерации, затем встать на специальную метку, и веб-камера сделает портретный снимок. Нейросеть включается в работу на следующем этапе. Она генерирует новую картинку, на которой посетитель предстает в образе выбранного героя.",
+      },
+
+      {
+        id: 3,
+        paragraph:
+          "При этом полученное изображение выглядит достоверно — технология учитывает особенности прически и даже то, носит ли гость очки. При демонстрации результата генерации также выводится QR-код, при помощи которого гость может скачать картинку на свое устройство.",
+      },
+    ],
+    shortDescription: "Нейросетевая фотобудка с заменой лиц",
+    preview: "https://i.vimeocdn.com/video/1927435660-f3b562ff972ce85909ec0716930507a7cec9fc0e1147cb77628ced91a40921ad-d?mw=1800&mh=1013&q=70",
+    linkYouTube:
+      "https://player.vimeo.com/video/1010129365",
+    tags: ["Unity3D","Web", "Figma"],
+  },
+  {
+    id: -8,
+    title: "Прототип #15",
+    description: [
+      {
+        id: 1,
+        paragraph:
+          "Фотобудка с дополненной реальностью. Благодаря программному обеспечению в процессе съемки в кадре появляется заранее заданный персонаж, что позволяет делать фотографии со знакомыми вам героями без их присутствия.",
+      },
+      {
+        id: 2,
+        paragraph:
+          "Например, можно использовать в кадре актеров, музыкантов, спортсменов или героев мультфильмов.",
+      },
+    ],
+    shortDescription: "Фотобудка с дополненной реальностью",
+    preview: "https://i.vimeocdn.com/video/1927445171-092e1e9bd7e579d1547b2f2a19184327a29f8d49738d8018a3973551cf26c621-d?mw=1000&mh=566&q=70",
+    linkYouTube:
+      "https://player.vimeo.com/video/1010137363",
+    tags: ["Unity3D","Web", "Figma"],
+  },
+  {
+    id: -9,
+    title: "Прототип #14",
+    description: [
+      {
+        id: 1,
+        paragraph:
+          "Крутилка на энкодере. Крутим - меняем контент/управляем персонажем/прибавляем и убавляем значения.",
+      }
+    ],
+    shortDescription: "Крутилка для переключение контента",
+    preview: "https://i.vimeocdn.com/video/1927446764-89c75d3073b59099834f17fb7b9a35d59adfd9b6385e747ebab1b3b58711f6ab-d?mw=1000&mh=566&q=70",
+    linkYouTube:
+      "https://player.vimeo.com/video/1010138674",
+    tags: ["Unity3D","Arduino"],
+  },
+  {
+    id: -10,
+    title: "Прототип #13",
     description: [
       {
         id: 1,
@@ -431,8 +529,8 @@ const videoPosts = [
     tags: ["Unity3D", "Ps"],
   },
   {
-    id: -2,
-    title: "Прототип #2",
+    id: -11,
+    title: "Прототип #12",
     description: [
       {
         id: 1,
@@ -447,8 +545,8 @@ const videoPosts = [
     tags: ["Unity3D", "Arduino", "Ps", "Ae"],
   },
   {
-    id: -3,
-    title: "Прототип #3",
+    id: -12,
+    title: "Прототип #11",
     description: [
       {
         id: 1,
@@ -463,8 +561,8 @@ const videoPosts = [
     tags: ["Python"],
   },
   {
-    id: -4,
-    title: "Прототип #4",
+    id: -13,
+    title: "Прототип #10",
     description: [
       {
         id: 1,
@@ -478,8 +576,8 @@ const videoPosts = [
     tags: ["Unity3D", "Python"],
   },
   {
-    id: -5,
-    title: "Прототип #5",
+    id: -14,
+    title: "Прототип #9",
     description: [
       {
         id: 1,
@@ -493,8 +591,8 @@ const videoPosts = [
     tags: ["Unity3D"],
   },
   {
-    id: -6,
-    title: "Прототип #6",
+    id: -15,
+    title: "Прототип #8",
     description: [
       {
         id: 1,
@@ -509,7 +607,7 @@ const videoPosts = [
     tags: ["Unity3D"],
   },
   {
-    id: -7,
+    id: -16,
     title: "Прототип #7",
     description: [
       {
@@ -523,8 +621,8 @@ const videoPosts = [
     tags: ["Unity3D"],
   },
   {
-    id: -8,
-    title: "Прототип #8",
+    id: -17,
+    title: "Прототип #6",
     description: [
       {
         id: 1,
@@ -538,8 +636,8 @@ const videoPosts = [
     tags: ["Unity3D", "Python"],
   },
   {
-    id: -9,
-    title: "Прототип #9",
+    id: -18,
+    title: "Прототип #5",
     description: [
       {
         id: 1,
@@ -553,8 +651,8 @@ const videoPosts = [
     tags: ["Unity3D", "Ps"],
   },
   {
-    id: -10,
-    title: "Прототип #10",
+    id: -19,
+    title: "Прототип #4",
     description: [
       {
         id: 1,
@@ -568,8 +666,8 @@ const videoPosts = [
     tags: ["Unity3D", "Blender", "Ps"],
   },
   {
-    id: -11,
-    title: "Прототип #11",
+    id: -20,
+    title: "Прототип #3",
     description: [
       {
         id: 1,
@@ -583,8 +681,8 @@ const videoPosts = [
     tags: ["Unity3D", "Ps"],
   },
   {
-    id: -12,
-    title: "Прототип #12",
+    id: -21,
+    title: "Прототип #2",
     description: [
       {
         id: 1,
@@ -598,8 +696,8 @@ const videoPosts = [
     tags: ["Unity3D", "Blender", "Ai"],
   },
   {
-    id: -13,
-    title: "Прототип #13",
+    id: -22,
+    title: "Прототип #1",
     description: [
       {
         id: 1,
