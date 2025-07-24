@@ -3,7 +3,8 @@ import unity from "../../images/unity-icon.webp";
 import arduino from "../../images/arduino-icon.webp";
 import adobe from "../../images/adobe-logo.webp";
 import blender from "../../images/blender-icon.webp";
-import touchDesigner from "../../images/touch-designer-icon.webp";
+import opencv from "../../images/opencv-logo-icon.webp";
+// import touchDesigner from "../../images/touch-designer-icon.webp";
 import { useShowConentInView } from "../../hook/showConentInView";
 
 const Technologies: React.FC = () => {
@@ -23,14 +24,16 @@ const Technologies: React.FC = () => {
               <img src={arduino} alt={"arduino"} />
               <img src={adobe} alt={"adobe"} />
               <img src={blender} alt={"blender"} />
-              <img src={touchDesigner} alt={"touchDesigner"} />
+              <img src={opencv} alt={"opencv"} />
+              {/* <img src={touchDesigner} alt={"touchDesigner"} /> */}
             </span>
             <span>
               <img src={unity} alt={"unity"} />
               <img src={arduino} alt={"arduino"} />
               <img src={adobe} alt={"adobe"} />
               <img src={blender} alt={"blender"} />
-              <img src={touchDesigner} alt={"touchDesigner"} />
+              <img src={opencv} alt={"opencv"} />
+              {/* <img src={touchDesigner} alt={"touchDesigner"} /> */}
             </span>
           </div>
         </div>

@@ -414,6 +414,43 @@ const videoPosts = [
       "https://player.vimeo.com/video/995035124",
     tags: ["Unity3D", "Figma"],
   }, 
+  {
+    id: 31,
+    title: "Медиа-купол в Зарядье",
+    description: [
+      {
+        id: 1,
+        paragraph:
+          "Интерактивная инсталляция, где пользователь может управлять контентом на куполе.",
+      }
+    ],
+    shortDescription: "Управление контентом на медиакуполе с тачпанели",
+    preview: "https://i.vimeocdn.com/video/2040252250-830b97445de1106b20e36255cf249900b8059ad928e2c3601ed8835a1b169ca3-d?mw=1000&mh=564&q=70",
+    linkYouTube:
+      "https://player.vimeo.com/video/1104044979",
+    tags: ["Unity3D", "Figma"],
+  },
+  {
+    id: 32,
+    title: "Змейка",
+    description: [
+      {
+        id: 1,
+        paragraph:
+          "Знакомая всем игра «Змейка» подросла и ждала всех желающих сыграть в интерактивной зоне новогодней выставки в ЦЕХе.",
+      },
+      {
+        id: 2,
+        paragraph:
+          "Змейка управляется при помощи джойстика и питается бонусами. На мне было создание контроллеров (пайка и программирование), разработка приложения на Unity3D.",
+      },
+    ],
+    shortDescription: "Классическая игра в необычной реализации",
+    preview: "https://i.vimeocdn.com/video/2040254628-96f0992113d04acbc5e11f08d33dcb9e0fb2e69ed6ccd8b5e55d3f1bb647a492-d?mw=1000&mh=564&q=70",
+    linkYouTube:
+      "https://player.vimeo.com/video/1104079663",
+    tags: ["Unity3D", "Arduino", "Figma"],
+  },
   /// ПРОТОТИПЫ ///
   {
     id: -5,
